@@ -52,7 +52,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 ### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-You could also check out [Netlify Documentation] for deployment of react applications here: https://docs.netlify.com
+You could also check out [Netlify Documentation](https://docs.netlify.com) for deployment of react applications. 
 
 ### `npm run build` fails to minify
 
