@@ -25,7 +25,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-The website is slive at: https://elastic-wilson-b1d75c.netlify.com .
+The website is live at: https://elastic-wilson-b1d75c.netlify.com .
 
 ## Learn More
 
