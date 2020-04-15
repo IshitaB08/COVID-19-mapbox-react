@@ -25,7 +25,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-The website is slive at: (https://elastic-wilson-b1d75c.netlify.com).
+The website is slive at: https://elastic-wilson-b1d75c.netlify.com .
 
 ## Learn More
 
@@ -52,7 +52,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 ### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-You could also check out [Netlify Documentation] for deployment of react applications here: (https://docs.netlify.com)
+You could also check out [Netlify Documentation] for deployment of react applications here: https://docs.netlify.com
 
 ### `npm run build` fails to minify
 
