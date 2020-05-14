@@ -1,4 +1,4 @@
-The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -37,13 +37,16 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
+
 ### Analyzing the Bundle Size
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
+
 ### Making a Progressive-Web-App (PAW) : 
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
 
 
 ### Deployment
